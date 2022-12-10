@@ -2,7 +2,6 @@
 
 print("HI")
 
-clear
-
+print("Fixed the error")
 
 
